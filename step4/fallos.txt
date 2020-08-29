@@ -1,0 +1,1 @@
+1- En el gui en el  apartado de input de coordenadas en el programa no hay que hacer calculos, las coordenadas que se introducen son directamente las correctas.
